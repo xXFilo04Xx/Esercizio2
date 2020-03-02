@@ -46,7 +46,7 @@ namespace Wpf_Es_2
             }
             else
             {
-                LBLRISULTATO.Content = "il numero è dispari";
+                LBLRISULTATO.Content = "il numero è dispari"; 
             }
         }
     }
