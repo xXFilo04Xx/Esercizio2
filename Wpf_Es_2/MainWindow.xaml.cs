@@ -42,7 +42,7 @@ namespace Wpf_Es_2
             }
             if (Utilità.PariDispari(n1))
             {
-                LBLRISULTATO.Content = "il numero è pari";
+                LBLRISULTATO.Content += "il numero è pari";
             }
             else
             {
